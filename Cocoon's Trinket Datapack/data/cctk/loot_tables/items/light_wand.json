@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:1440600, cctk:{id: \"light_wand\", light_level: 15 }, display:{Name:'{\"translate\":\"item.cctk.light_wand_15\",\"italic\":false}', Lore:['[{\"text\":\"Light Level: 1\",\"italic\":false,\"color\":\"yellow\"}]','[{\"text\":\"Cocoon\\'s Trinkets\",\"italic\":true,\"color\":\"blue\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+[   
+{     
+"function": "minecraft:set_nbt",     
+"tag": "{CustomModelData:1440600, cctk:{light_level: 8 }, display:{Name:'{\"translate\":\"item.cctk.light_wand_8\",\"italic\":false}', Lore:['[{\"text\":\"Light Level: 8\",\"italic\":false,\"color\":\"yellow\"}]','[{\"text\":\"Cocoon\\'s Trinkets\",\"italic\":true,\"color\":\"blue\"}]']}}"   
+} 
+]

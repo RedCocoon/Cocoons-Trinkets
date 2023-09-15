@@ -1,0 +1,24 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+	  "nbt": "{CustomModelData:1440600}"
+    },
+    "title": {
+      "translate": "cctk.install.title"
+    },
+    "description": {
+      "translate": "cctk.install.description"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "global:cocoon",
+  "criteria": {
+    "ticker": {
+      "trigger": "minecraft:impossible"
+    }
+  }
+}

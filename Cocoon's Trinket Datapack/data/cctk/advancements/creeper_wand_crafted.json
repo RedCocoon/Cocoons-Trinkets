@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cctk:creeper_wand"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cctk:craft/creeper_wand"
+  }
+}

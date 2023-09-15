@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cctk:unstable_breath_bottle"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cctk:craft/unstable_breath_bottle"
+  }
+}

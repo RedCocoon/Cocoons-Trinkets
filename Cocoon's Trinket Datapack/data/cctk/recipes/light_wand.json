@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " GO",
+    " IG",
+    "I  "
+  ],
+  "key": {
+    "O": {
+      "item": "minecraft:glowstone"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:carrot_on_a_stick",
+          "functions": [
+            {
+              "function": "set_nbt",
+              "tag": "{CustomModelData:1440601, cctk:{id: \"hose\"}, display:{Name:'{\"translate\":\"item.cctk.hose\",\"italic\":false}', Lore:['[{\"text\":\"Cocoon\\'s Trinkets\",\"italic\":true,\"color\":\"blue\"}]']}}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
