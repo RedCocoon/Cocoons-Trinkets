@@ -12,7 +12,7 @@ https://github.com/RedCocoon/Cocoons-Trinkets/releases
 - Right click to use, shift right click to cycle through light levels
 - Each light created takes 1 glowstone block, regardless of light level
 
-![Recipe for Hose](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_light_wand.png)
+![Recipe for Light Wand](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_light_wand.png)
 
 ## Hose
 - A proxy for the buckets in your inventory
@@ -25,9 +25,9 @@ https://github.com/RedCocoon/Cocoons-Trinkets/releases
 ## Unstable Breath Bottle
 - Right click to create a dragon's breath cloud at your position
 
-![Recipe for Hose](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_unstable_breath_bottle.png)
+![Recipe for Unstable Breath Bottle](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_unstable_breath_bottle.png)
 
 ## Creeper Wand
 - Right click to make a creeper's hissing noise
 
-![Recipe for Hose](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_creeper_wand.png)
+![Recipe for Creeper Wand](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_creeper_wand.png)
