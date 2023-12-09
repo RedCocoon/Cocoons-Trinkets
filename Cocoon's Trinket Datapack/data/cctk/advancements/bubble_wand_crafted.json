@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cctk:bubble_wand"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cctk:craft/bubble_wand"
+  }
+}

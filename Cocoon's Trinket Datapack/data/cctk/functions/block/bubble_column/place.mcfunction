@@ -1,0 +1,1 @@
+execute summon minecraft:marker at @s run function cctk:block/bubble_column/init

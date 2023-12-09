@@ -9,7 +9,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{CustomModelData:1440602, cctk:{id: \"unstable_breath_bottle\", consumable:1b}, display:{Name:'{\"translate\":\"item.cctk.unstable_breath_bottle\",\"italic\":false}', Lore:['[{\"text\":\"Cocoon\\'s Trinkets\",\"italic\":true,\"color\":\"blue\"}]']}}"
+              "tag": "{CustomModelData:1440604, cctk:{id: \"amulet_of_sun\", consumable:1b}, display:{Name:'{\"translate\":\"item.cctk.amulet_of_sun\",\"italic\":false}', Lore:['[{\"text\":\"Cocoon\\'s Trinkets\",\"italic\":true,\"color\":\"blue\"}]']}}"
             }
           ]
         }

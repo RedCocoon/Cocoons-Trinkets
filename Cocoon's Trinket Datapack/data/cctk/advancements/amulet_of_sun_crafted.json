@@ -1,0 +1,13 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:recipe_crafted",
+      "conditions": {
+        "recipe_id": "cctk:amulet_of_sun"
+      }
+    }
+  },
+  "rewards": {
+    "function": "cctk:craft/amulet_of_sun"
+  }
+}

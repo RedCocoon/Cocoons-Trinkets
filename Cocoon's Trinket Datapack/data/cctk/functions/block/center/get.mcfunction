@@ -1,0 +1,1 @@
+execute summon minecraft:leash_knot run function cctk:block/center/init
