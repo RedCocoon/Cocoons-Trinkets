@@ -31,3 +31,16 @@ https://github.com/RedCocoon/Cocoons-Trinkets/releases
 - Right click to make a creeper's hissing noise
 
 ![Recipe for Creeper Wand](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_creeper_wand.png)
+
+## Amulet of Sun
+- Right click to turn night into day, rain into sun. The amulet will be consumed.
+
+![Recipe for Amulet of Sun](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_amulet_of_sun.png)
+
+## Bubble Wand
+- Right click most waterlogged blocks to put bubbles into them
+- If under that block is downward bubble column, the bubbles will drag mobs down.
+- Otherwise, mobs will be pushed up.
+- If used on waterlogged copper grates, items will float/sink through the block.
+
+![Recipe for Bubble Wand](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_bubble_wand.png)
