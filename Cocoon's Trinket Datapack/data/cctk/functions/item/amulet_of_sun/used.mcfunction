@@ -1,4 +1,4 @@
-time set day
-weather clear
-playsound minecraft:entity.player.levelup player @a ~ ~ ~ 0.1 2
-particle minecraft:end_rod ~ ~ ~ 0 0 0 0.1 100
+# Increase the light level if sneaking
+execute if score @s cctk.sneak matches 1.. run return run function cctk:item/amulet_of_sun/sneak_used
+# Else, use normally
+execute unless score @s cctk.sneak matches 1.. run return run function cctk:item/amulet_of_sun/normal_used
