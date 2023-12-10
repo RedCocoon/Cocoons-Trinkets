@@ -34,8 +34,14 @@ https://github.com/RedCocoon/Cocoons-Trinkets/releases
 
 ## Amulet of Sun
 - Right click to turn night into day, rain into sun. The amulet will be consumed.
+- Shift Right Click: Store the current weather
 
 ![Recipe for Amulet of Sun](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_amulet_of_sun.png)
+
+## Amulet of Rain / Amulet of Storm
+- Right click to make it rain or storm. The amulet will be consumed.
+
+![Recipe for Amulet of Rain/Storm](https://raw.githubusercontent.com/RedCocoon/Cocoons-Trinkets/main/.github/images/recipe_amulet_of_rain_and_storm.png)
 
 ## Bubble Wand
 - Right click most waterlogged blocks to put bubbles into them
